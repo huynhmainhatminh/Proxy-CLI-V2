@@ -1,0 +1,9 @@
+https://sunny9577.github.io/proxy-scraper/proxies.txt
+https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/all/data.txt
+https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/xResults/Proxies.txt
+https://vakhov.github.io/fresh-proxy-list/proxylist.txt
+https://raw.githubusercontent.com/RioMMO/ProxyFree/refs/heads/main/ALL_PROXY.txt
+https://raw.githubusercontent.com/BreakingTechFr/Proxy_Free/refs/heads/main/proxies/http.txt
+https://raw.githubusercontent.com/BreakingTechFr/Proxy_Free/refs/heads/main/proxies/socks4.txt
+https://raw.githubusercontent.com/BreakingTechFr/Proxy_Free/refs/heads/main/proxies/socks5.txt
+
