@@ -32,6 +32,14 @@ python main.py
 
 https://github.com/user-attachments/assets/9dbe7c31-a3e7-4ef4-8578-1d27c82068d4
 
+# Basic Instructions
+## ( use the navigation keys on the keyboard )
+### Move : left⬅️, right ➡️, dow ⬇️, up ⬆️
+### Select Function : spacebar
+### Stop Tools : F12
+### Exit Tools : ESC
+
+
 ## These are tested terminals on different operating systems
 
 | System | Tested |
