@@ -24,3 +24,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+# Demos
+
+https://github.com/user-attachments/assets/9dbe7c31-a3e7-4ef4-8578-1d27c82068d4
