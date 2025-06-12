@@ -1,6 +1,9 @@
 # Proxy-CLI-V2
 
-PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS &amp; UBUNTU &amp; LINUX
+
+<h2 align="center">
+  ⭐️ PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS &amp; UBUNTU &amp; LINUX 🔥
+</h2>
 
 # Features
 
