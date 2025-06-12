@@ -19,3 +19,8 @@ With pip:
 ```bash
 pip install -r requirements.txt
 ```
+
+# Run tool
+```bash
+python main.py
+```
