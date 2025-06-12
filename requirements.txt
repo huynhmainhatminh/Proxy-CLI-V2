@@ -1,0 +1,7 @@
+rich
+geoip2
+aiohttp_socks
+aiohttp
+icmplib
+psutil
+keyboard
