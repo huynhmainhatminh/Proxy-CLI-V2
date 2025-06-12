@@ -32,7 +32,7 @@ python main.py
 
 https://github.com/user-attachments/assets/9dbe7c31-a3e7-4ef4-8578-1d27c82068d4
 
-# These are tested terminals on different operating systems
+## These are tested terminals on different operating systems
 
 | System | Tested |
 |--|--|
